@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+* {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+body {
+    background-color: peachpuff;
+}
+
+.navbar .navbar {
+    background-color: black;
+    color: white;
+    height: 30px;
+    justify-content: center;
+    font-family: 'Lora', serif;
+    width: 100%;
+    position: sticky;
+}
+
+.ImgTop img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    height: 500px;
+}
+
+.gridGallery img {
+    width: 255px;
+    height: 255px;
+}
+
+.slidePics #slides #myCarousel .carousel-inner img {
+    width: 255px;
+    height: 255px;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
